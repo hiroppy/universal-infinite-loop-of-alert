@@ -1,0 +1,21 @@
+{
+  "name": "universal-infinite-loop-of-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "hiroppy <git@hiroppy.me> (https://hiroppy.me)",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.0.0-beta.5",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-merge": "^4.2.1"
+  },
+  "dependencies": {
+    "alert-node": "^1.2.3"
+  }
+}
